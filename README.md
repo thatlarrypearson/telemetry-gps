@@ -1,5 +1,9 @@
 # Telemetry GPS Location and Time Logger
 
+## **NOTICE: REPOSITORIES INTEGRATED INTO SINGLE REPOSITORY**
+
+This repository along with other related repositories have been integrated into [**Vehicle Telemetry System**, a system for collecting and processing motor vehicle data using included sensor modules.](https://github.com/thatlarrypearson/vehicle-telemetry-system).
+
 ## **STILL UNDER CONSTRUCTION** but it is getting closer
 
 The Telemetry GPS Logger captures location and time data using a GPS receiver. While the logger is running, location and time output is written to files.
